@@ -40,11 +40,6 @@ faizan@github:~$ echo $STATUS
 ## `> github_stats --live`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4izan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4izan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4izan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 
