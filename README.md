@@ -12,29 +12,29 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
 </p>
-```bash
+bash
 faizan@github:~$ whoami
 > Student | ML Enthusiast | Building things that (sometimes) work
 faizan@github:~$ cat current_project.txt
 > AI Tutor — an interactive learning assistant with animations
 faizan@github:~$ echo $STATUS
 > Currently learning Machine Learning
-```
+
 <br>
-## `> tech_stack --list`
+## > tech_stack --list
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,py,js,html,css,git,github,vscode,tensorflow,figma&theme=dark" />
 </p>
 <br>
-## `> github_stats --live`
+## > github_stats --live
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=4izan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4izan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4izan&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="100%"/>
 </p>
 <br>
-## `> featured_project.md`
+## > featured_project.md
 <table align="center">
 <tr>
 <td width="100%">
@@ -53,5 +53,6 @@ An interactive learning assistant built with smooth animations to make studying 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=100&section=footer" width="100%"/>
 </p>
 <p align="center">
-  <em>faizan@github:~$ <span style="color:#39FF14">_</span></em>
+  <em>faizan@github:~$ <span style="color:
+#39FF14">_</span></em>
 </p>
