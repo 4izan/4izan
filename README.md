@@ -56,7 +56,7 @@ faizan@github:~$ echo $STATUS
 <td width="100%">
 
 ### 🤖 AI Tutor
-An interactive learning assistant built with smooth animations to make studying feel less like studying.
+An interactive learning assistant built with smooth animations to make studying feel less like studying. (Work In Progress)
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
