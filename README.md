@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Faizan+%F0%9F%91%8B;Exploring+Machine+Learning...;Building+an+AI+Tutor+with+animations;console.log('welcome+to+my+profile')" alt="Typing SVG" />
+</h1>
 
-<!--
-**4izan/4izan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/status-learning-39FF14?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/focus-Machine%20Learning-39FF14?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+faizan@github:~$ whoami
+> Student | ML Enthusiast | Building things that (sometimes) work
+
+faizan@github:~$ cat current_project.txt
+> AI Tutor — an interactive learning assistant with animations
+
+faizan@github:~$ echo $STATUS
+> Currently learning Machine Learning 🧠
+```
+
+<br>
+
+## `> tech_stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,py,js,html,css,git,github,vscode,tensorflow,figma&theme=dark" />
+</p>
+
+<br>
+
+## `> github_stats --live`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4izan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4izan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4izan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4izan&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="100%"/>
+</p>
+
+<br>
+
+## `> featured_project.md`
+
+<table align="center">
+<tr>
+<td width="100%">
+
+### 🤖 AI Tutor
+An interactive learning assistant built with smooth animations to make studying feel less like studying.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI-Powered-39FF14?style=flat-square" />
+</p>
+
+**[→ Check it out](#)** *(update this link with your repo URL)*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <em>faizan@github:~$ <span style="color:#39FF14">_</span></em>
+</p>
