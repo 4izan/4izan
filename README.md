@@ -68,7 +68,7 @@ An interactive learning assistant built with smooth animations to make studying 
   <img src="https://img.shields.io/badge/AI-Powered-39FF14?style=flat-square" />
 </p>
 
-**[→ Check it out]([https://github.com/4izan/aitutor])**
+
 
 </td>
 </tr>
