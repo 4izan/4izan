@@ -55,15 +55,6 @@ faizan@github:~$ echo $STATUS
 
 <br>
 
-## `> contribution_snake --animate`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4izan/4izan/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-<p align="center"><sub>⚠️ requires a one-time GitHub Action setup — instructions below the README</sub></p>
-
-<br>
-
 ## `> trophies --flip`
 
 <p align="center">
