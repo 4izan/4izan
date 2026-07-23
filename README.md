@@ -28,7 +28,7 @@ faizan@github:~$ echo $STATUS
 <br>
 ## `> github_stats --live`
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4izan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+  <img src="https://streak-stats.demolab.com/?user=4izan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4izan&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="100%"/>
