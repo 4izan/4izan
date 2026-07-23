@@ -55,14 +55,6 @@ faizan@github:~$ echo $STATUS
 
 <br>
 
-## `> trophies --flip`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4izan&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
-<br>
-
 ## `> featured_project.md`
 
 <table align="center">
