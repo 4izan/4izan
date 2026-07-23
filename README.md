@@ -24,7 +24,7 @@ faizan@github:~$ cat current_project.txt
 > AI Tutor — an interactive learning assistant with animations
 
 faizan@github:~$ echo $STATUS
-> Currently learning Machine Learning 🧠
+> Currently learning Machine Learning
 ```
 
 <br>
