@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
 </p>
-<p align="center"><sub>*(swap this gif for one you like — <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-Github">more options here</a>)*</sub></p>
 
 ```bash
 faizan@github:~$ whoami
@@ -69,7 +68,7 @@ An interactive learning assistant built with smooth animations to make studying 
   <img src="https://img.shields.io/badge/AI-Powered-39FF14?style=flat-square" />
 </p>
 
-**[→ Check it out](#)** *(update this link with your repo URL)*
+**[→ Check it out]([https://github.com/4izan/aitutor])**
 
 </td>
 </tr>
