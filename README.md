@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/dev.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
 </p>
 <p align="center"><sub>*(swap this gif for one you like — <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-Github">more options here</a>)*</sub></p>
 
