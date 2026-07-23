@@ -1,15 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=180&section=header&text=Faizan&fontSize=50&fontColor=0D1117&animation=twinkling&fontAlignY=40" width="100%"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Faizan+%F0%9F%91%8B;Exploring+Machine+Learning...;Building+an+AI+Tutor+with+animations;console.log('welcome+to+my+profile')" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%"/>
+  <img src="https://img.shields.io/badge/status-learning-39FF14?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/focus-Machine%20Learning-39FF14?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=4izan&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-learning-39FF14?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/focus-Machine%20Learning-39FF14?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/dev.gif" width="500">
 </p>
+<p align="center"><sub>*(swap this gif for one you like — <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-Github">more options here</a>)*</sub></p>
 
 ```bash
 faizan@github:~$ whoami
@@ -49,6 +55,23 @@ faizan@github:~$ echo $STATUS
 
 <br>
 
+## `> contribution_snake --animate`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4izan/4izan/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+<p align="center"><sub>⚠️ requires a one-time GitHub Action setup — instructions below the README</sub></p>
+
+<br>
+
+## `> trophies --flip`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4izan&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+<br>
+
 ## `> featured_project.md`
 
 <table align="center">
@@ -72,7 +95,7 @@ An interactive learning assistant built with smooth animations to make studying 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
